@@ -1,0 +1,6 @@
+{
+  "Python": ["FastAPI", "Pytest", "Pandas"],
+  "React": ["TypeScript", "Next.js"],
+  "DevOps": ["Docker", "Kubernetes", "CI/CD"],
+  "Kafka": ["Streaming", "Event Driven Architecture"]
+}
